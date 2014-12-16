@@ -1,0 +1,20 @@
+div  {
+    border-style: outset;
+        border-width: 5px;
+        padding: 30px;
+}
+.container{
+    border-color:gold;
+}
+.row{
+    border-color:Gold;
+
+}
+.col-lg-10{
+    border-color:darkblue;
+    
+}
+.background{
+    background-image: url(http://img3.wikia.nocookie.net/__cb20130602030222/rvb/images/b/b9/Rooster_Teeth_10th_Anniversay.png)
+    
+}
