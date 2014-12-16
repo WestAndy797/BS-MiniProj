@@ -18,3 +18,8 @@ div  {
     background-image: url(http://img3.wikia.nocookie.net/__cb20130602030222/rvb/images/b/b9/Rooster_Teeth_10th_Anniversay.png)
     
 }
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
